@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (Poetry gerencia)
+.venv/
+env/
+venv/
+
+# Poetry
+.poetry/
+
+# VS Code settings
+.vscode/
+
+# Django specific
+*.sqlite3
+db.sqlite3
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
